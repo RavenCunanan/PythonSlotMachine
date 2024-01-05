@@ -4,7 +4,7 @@
 Slot Machine Game
 This is a simple Python script that simulates a slot machine game. Players can spin the reels and see if they win by getting matching symbols. The game includes colorful emoji symbols like 🍒, 🍇, 🍉, and a special jackpot symbol, 7️⃣.
 
-How to Play
+How to Play:
 Run the script.
 Press 'Y' to spin the slot machine reels.
 Watch the symbols spin and check if you're a winner!
