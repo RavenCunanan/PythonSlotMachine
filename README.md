@@ -1,4 +1,4 @@
-# PythonSlotMachine
+# Python Slot Machine
 
 
 Slot Machine Game
